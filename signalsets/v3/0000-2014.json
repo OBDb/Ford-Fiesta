@@ -1,0 +1,15 @@
+{ "commands": [
+{ "hdr": "720", "rax": "728", "cmd": {"22": "404C"}, "freq": 5,
+  "signals": [
+    {"id": "FIESTA_ODO", "path": "Trips", "fmt": { "len": 24, "max": 1677721, "div": 10, "unit": "kilometers" }, "name": "Odometer"}
+  ]},
+{ "hdr": "720", "rax": "728", "dbg": true, "cmd": {"22": "61A5"}, "freq": 30,
+  "signals": [
+    {"id": "FIESTA_TPMS_WARN", "path": "Tires", "fmt": {"bix": 2, "len": 1, "max": 1, "unit": "offon" }, "name": "Tire pressure warning indicator"}
+  ]},
+{ "hdr": "720", "rax": "728", "dbg": true, "cmd": {"22": "DD01"}, "freq": 30,
+  "signals": [
+    {"id": "FIESTA_ODO_TRIP", "path": "Trips", "fmt": { "len": 24, "max": 1677721, "div": 10, "unit": "kilometers" }, "name": "Trip distance"}
+  ]}
+]
+}
