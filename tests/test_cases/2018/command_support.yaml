@@ -63,6 +63,16 @@ supported_commands_by_ecu:
   - 019D:FUEL_RATE_ALT,VFUEL_RATE
   - 019E:EXH_RATE
 unsupported_commands_by_ecu:
+  720:
+  - 720.728.226180
+  - 720.728.226185
+  - 720.728.2261A5
+  - 720.728.22DD01
   726:
   - 726.72E.222817
   - 726.72E.222818
+  760:
+  - 760.768.223201
+  7DF:
+  - 7DF.221310
+  - 7DF.221E12
