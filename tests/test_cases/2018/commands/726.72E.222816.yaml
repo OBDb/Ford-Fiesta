@@ -1,0 +1,121 @@
+command_id: 726.72E.222816
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 72E0562281601F7
+  expected_values:
+    FIESTA_TP_RL: 25.15
+- response: 72E0562281601FC
+  expected_values:
+    FIESTA_TP_RL: 25.4
+- response: 72E0562281601FF
+  expected_values:
+    FIESTA_TP_RL: 25.55
+- response: '72E056228160201'
+  expected_values:
+    FIESTA_TP_RL: 25.65
+- response: '72E056228160204'
+  expected_values:
+    FIESTA_TP_RL: 25.8
+- response: '72E056228160206'
+  expected_values:
+    FIESTA_TP_RL: 25.9
+- response: '72E056228160209'
+  expected_values:
+    FIESTA_TP_RL: 26.05
+- response: 72E05622816020B
+  expected_values:
+    FIESTA_TP_RL: 26.15
+- response: 72E05622816020E
+  expected_values:
+    FIESTA_TP_RL: 26.3
+- response: '72E056228160210'
+  expected_values:
+    FIESTA_TP_RL: 26.4
+- response: '72E056228160213'
+  expected_values:
+    FIESTA_TP_RL: 26.55
+- response: '72E056228160215'
+  expected_values:
+    FIESTA_TP_RL: 26.65
+- response: '72E056228160218'
+  expected_values:
+    FIESTA_TP_RL: 26.8
+- response: 72E05622816021A
+  expected_values:
+    FIESTA_TP_RL: 26.9
+- response: 72E05622816021D
+  expected_values:
+    FIESTA_TP_RL: 27.05
+- response: 72E05622816021F
+  expected_values:
+    FIESTA_TP_RL: 27.15
+- response: '72E056228160222'
+  expected_values:
+    FIESTA_TP_RL: 27.3
+- response: '72E056228160224'
+  expected_values:
+    FIESTA_TP_RL: 27.4
+- response: '72E056228160227'
+  expected_values:
+    FIESTA_TP_RL: 27.55
+- response: '72E056228160229'
+  expected_values:
+    FIESTA_TP_RL: 27.65
+- response: 72E05622816022C
+  expected_values:
+    FIESTA_TP_RL: 27.8
+- response: 72E05622816022E
+  expected_values:
+    FIESTA_TP_RL: 27.9
+- response: 72E05622816022F
+  expected_values:
+    FIESTA_TP_RL: 27.95
+- response: '72E056228160231'
+  expected_values:
+    FIESTA_TP_RL: 28.05
+- response: '72E056228160233'
+  expected_values:
+    FIESTA_TP_RL: 28.15
+- response: '72E056228160234'
+  expected_values:
+    FIESTA_TP_RL: 28.2
+- response: '72E056228160236'
+  expected_values:
+    FIESTA_TP_RL: 28.3
+- response: '72E056228160238'
+  expected_values:
+    FIESTA_TP_RL: 28.4
+- response: '72E056228160239'
+  expected_values:
+    FIESTA_TP_RL: 28.45
+- response: 72E05622816023B
+  expected_values:
+    FIESTA_TP_RL: 28.55
+- response: 72E05622816023D
+  expected_values:
+    FIESTA_TP_RL: 28.65
+- response: 72E05622816023E
+  expected_values:
+    FIESTA_TP_RL: 28.7
+- response: '72E056228160240'
+  expected_values:
+    FIESTA_TP_RL: 28.8
+- response: '72E056228160242'
+  expected_values:
+    FIESTA_TP_RL: 28.9
+- response: '72E056228160243'
+  expected_values:
+    FIESTA_TP_RL: 28.95
+- response: '72E056228160245'
+  expected_values:
+    FIESTA_TP_RL: 29.05
+- response: 72E05622816024A
+  expected_values:
+    FIESTA_TP_RL: 29.3
+- response: 72E05622816024C
+  expected_values:
+    FIESTA_TP_RL: 29.4
+- response: 72E05622816024F
+  expected_values:
+    FIESTA_TP_RL: 29.55
