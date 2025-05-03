@@ -1,0 +1,35 @@
+generations:
+  - name: "First Generation (Project Bobcat)"
+    start_year: 1976
+    end_year: 1983
+    description: "The original Ford Fiesta was developed as a response to the 1973 oil crisis and growing demand for smaller, more fuel-efficient vehicles. Designed under the project name 'Bobcat,' it featured a front-wheel-drive layout with a transverse engine—a first for Ford Europe. Available primarily as a three-door hatchback, it was powered by a range of small displacement four-cylinder engines, from 1.0L to 1.6L depending on the market. The Fiesta quickly became a success across Europe due to its practical design, fuel efficiency, and engaging driving dynamics. While initially not sold in North America, it established the Fiesta nameplate that would become one of Ford's global small car mainstays."
+
+  - name: "Second Generation (MK2)"
+    start_year: 1983
+    end_year: 1989
+    description: "The second-generation Fiesta maintained the three-door hatchback format but with a more angular, modern design. The mechanical layout remained similar to its predecessor with updated engines and refinements to the chassis. This generation introduced the high-performance XR2 variant with a 1.6L engine, enhanced suspension, and distinctive styling elements. Interior space and refinement were improved while maintaining the nimble handling that had made the original successful. This generation continued to strengthen the Fiesta's position in Europe's increasingly competitive supermini segment."
+
+  - name: "Third Generation (MK3)"
+    start_year: 1989
+    end_year: 1997
+    description: "The third-generation Fiesta featured more aerodynamic styling, improved safety with the availability of ABS brakes and side impact beams, and a more refined overall package. Five-door variants became more common alongside the traditional three-door model. Engine options expanded to include more fuel-efficient units, while the XR2i and RS Turbo versions maintained the Fiesta's performance credentials. This generation saw increased competition in the small car segment but maintained strong sales throughout its lifecycle through continuous updates and special editions."
+
+  - name: "Fourth Generation (MK4)"
+    start_year: 1995
+    end_year: 2002
+    description: "The fourth-generation Fiesta represented an evolutionary approach, refining the formula with improved safety features, better refinement, and updated styling. Available in three and five-door hatchback forms, plus a rare sedan variant in some markets, it offered a range of petrol and diesel engines. The performance-oriented versions continued with the ST designation replacing previous XR models. Interior quality improved notably, reflecting increasing consumer expectations in the supermini segment. This generation maintained the Fiesta's strong position in Europe while facing increased competition from rivals including the Volkswagen Polo and Opel/Vauxhall Corsa."
+
+  - name: "Fifth Generation (MK5)"
+    start_year: 2002
+    end_year: 2008
+    description: "The fifth-generation Fiesta featured more distinctive styling with Ford's 'New Edge' design language. Available primarily as a three or five-door hatchback, it offered improved refinement and driving dynamics. Engine options included a range of Duratec petrol and Duratorq diesel units, with the ST150 version delivering enhanced performance. Safety improved with better crash structures and the wider availability of airbags. Interior design and quality took a step forward, with better materials and available features like automatic climate control on higher trims. This generation maintained the Fiesta's strong sales in Europe and expanded its presence in other global markets."
+
+  - name: "Sixth Generation (MK6)"
+    start_year: 2008
+    end_year: 2019
+    description: "The sixth-generation Fiesta represented a significant advancement, with a more premium design, vastly improved interior quality, and sophisticated technology features unusual for the segment. Available globally including in North America, it featured a range of efficient petrol and diesel engines, including Ford's award-winning 1.0L EcoBoost turbocharged three-cylinder. The Fiesta ST performance model gained wide acclaim for its exceptional handling and engaging driving experience. A significant facelift in 2013 updated the styling and introduced features like SYNC infotainment. This generation was particularly successful, becoming the UK's best-selling car for multiple years and earning strong sales globally by balancing fun driving dynamics with efficiency and practicality."
+
+  - name: "Seventh Generation (MK7)"
+    start_year: 2017
+    end_year: 2023
+    description: "The final Fiesta generation evolved the successful formula with more mature styling, improved refinement, and enhanced technology. Available in three and five-door configurations plus crossover-inspired Active variants, it offered a wide range of customization options. Powertrain options continued to center around the 1.0L EcoBoost in various power outputs, plus diesel options in some markets. The interior made a significant leap with available features including an 8-inch touchscreen, B&O premium audio, and advanced driver assistance systems. The ST version continued as a performance benchmark in its class. Despite its critical acclaim and continued popularity in Europe, changing market demands toward SUVs and Ford's strategic shifts led to the decision to end Fiesta production in 2023 after 47 years, marking the conclusion of one of Ford's most significant global nameplates."
