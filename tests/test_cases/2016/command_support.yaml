@@ -1,16 +1,14 @@
 model_year: 2016
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 unsupported_commands_by_ecu:
   720:
-  - 720.728.22404C
+  - 720.728.22404C:FIESTA_ODO
   - 720.728.226180
   - 720.728.226185
   726:
-  - 726.72E.222813
-  - 726.72E.222814
-  - 726.72E.222815
-  - 726.72E.222816
+  - 726.72E.222813:FIESTA_TP_FL
+  - 726.72E.222814:FIESTA_TP_FR
+  - 726.72E.222815:FIESTA_TP_RR
+  - 726.72E.222816:FIESTA_TP_RL
   - 726.72E.222817
   - 726.72E.222818
   760:
