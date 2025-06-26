@@ -1,8 +1,8 @@
 command_id: 720.728.22DD01
 test_cases:
-- response: 7280662DD01011813
-  expected_values:
+- expected_values:
     FIESTA_ODO_TRIP: 7169.9
-- response: 7280662DD01011846
-  expected_values:
+  response: 7280662DD01011813
+- expected_values:
     FIESTA_ODO_TRIP: 7175
+  response: 7280662DD01011846
