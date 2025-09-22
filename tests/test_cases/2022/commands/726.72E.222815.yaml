@@ -4,5 +4,5 @@ test_cases:
     FIESTA_TP_RR: 33.4
   response: 72E05622815029C
 - expected_values:
-    FIESTA_TP_RR: 36.9
-  response: 72E0562281502E2
+    FIESTA_TP_RR: 37.3
+  response: 72E0562281502EA
