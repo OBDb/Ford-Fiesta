@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     FIESTA_ODO: 85217
   response: 7280662404C0D00CA
+- expected_values:
+    FIESTA_ODO: 91743
+  response: 7280662404C0DFFB6
