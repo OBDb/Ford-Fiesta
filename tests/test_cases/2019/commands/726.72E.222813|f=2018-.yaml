@@ -1,4 +1,4 @@
-command_id: 726.72E.222813
+command_id: 726.72E.222813|f=2018-
 test_cases:
 - expected_values:
     FIESTA_TP_FL: 29.65

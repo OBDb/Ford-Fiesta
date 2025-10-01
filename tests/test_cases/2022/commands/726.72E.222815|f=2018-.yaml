@@ -1,4 +1,4 @@
-command_id: 726.72E.222815
+command_id: 726.72E.222815|f=2018-
 test_cases:
 - expected_values:
     FIESTA_TP_RR: 33.4
