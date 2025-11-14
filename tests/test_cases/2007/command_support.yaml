@@ -1,5 +1,6 @@
-model_year: 2012
+model_year: 2007
 unsupported_commands_by_ecu:
   "720":
+  - 720.728.22404C:FIESTA_ODO
   - 720.728.2261A5:FIESTA_TPMS_WARN
   - 720.728.22DD01:FIESTA_ODO_TRIP
