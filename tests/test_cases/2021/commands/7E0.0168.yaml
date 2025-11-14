@@ -5,13 +5,9 @@ test_cases:
     IAT_11_SUP: 1
     IAT_12: 25
     IAT_12_SUP: 1
-    IAT_13: -40
     IAT_13_SUP: 0
-    IAT_21: -40
     IAT_21_SUP: 0
-    IAT_22: -40
     IAT_22_SUP: 0
-    IAT_23: -40
     IAT_23_SUP: 0
   response: |-
     7E810094168033E4100
@@ -21,13 +17,9 @@ test_cases:
     IAT_11_SUP: 1
     IAT_12: 38
     IAT_12_SUP: 1
-    IAT_13: -40
     IAT_13_SUP: 0
-    IAT_21: -40
     IAT_21_SUP: 0
-    IAT_22: -40
     IAT_22_SUP: 0
-    IAT_23: -40
     IAT_23_SUP: 0
   response: |-
     7E810094168033E4E00
@@ -37,13 +29,9 @@ test_cases:
     IAT_11_SUP: 1
     IAT_12: 25
     IAT_12_SUP: 1
-    IAT_13: -40
     IAT_13_SUP: 0
-    IAT_21: -40
     IAT_21_SUP: 0
-    IAT_22: -40
     IAT_22_SUP: 0
-    IAT_23: -40
     IAT_23_SUP: 0
   response: |-
     7E810094168033F4100
@@ -53,13 +41,9 @@ test_cases:
     IAT_11_SUP: 1
     IAT_12: 36
     IAT_12_SUP: 1
-    IAT_13: -40
     IAT_13_SUP: 0
-    IAT_21: -40
     IAT_21_SUP: 0
-    IAT_22: -40
     IAT_22_SUP: 0
-    IAT_23: -40
     IAT_23_SUP: 0
   response: |-
     7E81009416803484C00
@@ -69,13 +53,9 @@ test_cases:
     IAT_11_SUP: 1
     IAT_12: 46
     IAT_12_SUP: 1
-    IAT_13: -40
     IAT_13_SUP: 0
-    IAT_21: -40
     IAT_21_SUP: 0
-    IAT_22: -40
     IAT_22_SUP: 0
-    IAT_23: -40
     IAT_23_SUP: 0
   response: |-
     7E81009416803525600
@@ -85,13 +65,9 @@ test_cases:
     IAT_11_SUP: 1
     IAT_12: 49
     IAT_12_SUP: 1
-    IAT_13: -40
     IAT_13_SUP: 0
-    IAT_21: -40
     IAT_21_SUP: 0
-    IAT_22: -40
     IAT_22_SUP: 0
-    IAT_23: -40
     IAT_23_SUP: 0
   response: |-
     7E81009416803525900
@@ -101,13 +77,9 @@ test_cases:
     IAT_11_SUP: 1
     IAT_12: 57
     IAT_12_SUP: 1
-    IAT_13: -40
     IAT_13_SUP: 0
-    IAT_21: -40
     IAT_21_SUP: 0
-    IAT_22: -40
     IAT_22_SUP: 0
-    IAT_23: -40
     IAT_23_SUP: 0
   response: |-
     7E81009416803576100
@@ -117,13 +89,9 @@ test_cases:
     IAT_11_SUP: 1
     IAT_12: 57
     IAT_12_SUP: 1
-    IAT_13: -40
     IAT_13_SUP: 0
-    IAT_21: -40
     IAT_21_SUP: 0
-    IAT_22: -40
     IAT_22_SUP: 0
-    IAT_23: -40
     IAT_23_SUP: 0
   response: |-
     7E81009416803586100
@@ -133,13 +101,9 @@ test_cases:
     IAT_11_SUP: 1
     IAT_12: 58
     IAT_12_SUP: 1
-    IAT_13: -40
     IAT_13_SUP: 0
-    IAT_21: -40
     IAT_21_SUP: 0
-    IAT_22: -40
     IAT_22_SUP: 0
-    IAT_23: -40
     IAT_23_SUP: 0
   response: |-
     7E81009416803586200
