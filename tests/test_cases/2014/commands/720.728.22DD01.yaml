@@ -4,8 +4,8 @@ test_cases:
     FIESTA_ODO_TRIP: 7169.9
   response: 7280662DD01011813
 - expected_values:
-    FIESTA_ODO_TRIP: 7603
-  response: 7280662DD010128FE
-- expected_values:
     FIESTA_ODO_TRIP: 7603.1
   response: 7280662DD010128FF
+- expected_values:
+    FIESTA_ODO_TRIP: 7604.6
+  response: 7280662DD0101290E
