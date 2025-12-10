@@ -11,6 +11,7 @@ supported_commands_by_ecu:
   - 726.72E.222818
   "7DF":
   - 7DF.010D
+  - 7DF.0111
   - 7DF.012F
   - 7DF.0131
   - 7DF.013C
