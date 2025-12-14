@@ -1,8 +1,8 @@
 command_id: 726.72E.222816|f=2018-
 test_cases:
 - expected_values:
-    FIESTA_TP_RL: 21.55
-  response: 72E0562281601AF
+    FIESTA_TP_RL: 21.3
+  response: 72E0562281601AA
 - expected_values:
     FIESTA_TP_RL: 25.55
   response: 72E0562281601FF
