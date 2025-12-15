@@ -10,6 +10,7 @@ supported_commands_by_ecu:
   - 0105:ECT
   - 0106:SHRTFT1
   - 0107:LONGFT1
+  - 010B:MAP
   - 010C:RPM
   - 010D:VSS
   - 010E:SPARKADV
