@@ -1,0 +1,38 @@
+command_id: 7E0.0168
+test_cases:
+- expected_values:
+    IAT_11: 34
+    IAT_11_SUP: 1
+    IAT_12: 46
+    IAT_12_SUP: 1
+    IAT_13_SUP: 0
+    IAT_21_SUP: 0
+    IAT_22_SUP: 0
+    IAT_23_SUP: 0
+  response: |-
+    7E810094168034A5600
+    7E82100000000000000
+- expected_values:
+    IAT_11: 39
+    IAT_11_SUP: 1
+    IAT_12: 44
+    IAT_12_SUP: 1
+    IAT_13_SUP: 0
+    IAT_21_SUP: 0
+    IAT_22_SUP: 0
+    IAT_23_SUP: 0
+  response: |-
+    7E810094168034F5400
+    7E82100000000000000
+- expected_values:
+    IAT_11: 66
+    IAT_11_SUP: 1
+    IAT_12: 62
+    IAT_12_SUP: 1
+    IAT_13_SUP: 0
+    IAT_21_SUP: 0
+    IAT_22_SUP: 0
+    IAT_23_SUP: 0
+  response: |-
+    7E810094168036A6600
+    7E82100000000000000
