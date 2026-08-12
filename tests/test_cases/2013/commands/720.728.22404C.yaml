@@ -1,0 +1,11 @@
+command_id: 720.728.22404C
+test_cases:
+- expected_values:
+    FIESTA_ODO: 183818.8
+  response: 7280662404C1C0C6C
+- expected_values:
+    FIESTA_ODO: 183859.1
+  response: 7280662404C1C0DFF
+- expected_values:
+    FIESTA_ODO: 183936
+  response: 7280662404C1C1100
