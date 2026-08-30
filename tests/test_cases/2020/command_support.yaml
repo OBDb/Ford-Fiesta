@@ -6,6 +6,7 @@ supported_commands_by_ecu:
   - 726.72E.222815|f=2018-:FIESTA_TP_RR
   - 726.72E.222816|f=2018-:FIESTA_TP_RL
   "7DF":
+  - 7DF.0105
   - 7DF.0106
   - 7DF.010D
   - 7DF.0134
