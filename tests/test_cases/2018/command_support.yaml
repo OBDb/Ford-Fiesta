@@ -96,8 +96,8 @@ supported_commands_by_ecu:
   - 7E0.015C:EOT
 unsupported_commands_by_ecu:
   "720":
-  - 720.728.226180
-  - 720.728.226185
+  - 720.728.226180:FIESTA_ODO_720
+  - 720.728.226185:FIESTA_FLI
   - 720.728.22DD01:FIESTA_ODO_TRIP
   "760":
   - 760.768.223201
