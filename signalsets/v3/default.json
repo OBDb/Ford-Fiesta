@@ -172,7 +172,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0318"}, "freq": 1,
   "signals": [
-    {"id": "FIESTA_VCT_INT_ACT", "path": "Engine", "fmt": { "len": 16, "max": 0, "div": 16, "unit": "degrees" }, "name": "Camshaft position, intake actual"}
+    {"id": "FIESTA_VCT_INT_ACT", "path": "Engine", "fmt": { "len": 16, "max": 2047.93, "min": -2048, "div": 16, "sign": true, "unit": "degrees" }, "name": "Camshaft position, intake actual"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0319"}, "freq": 1,
   "signals": [
@@ -256,7 +256,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "038E"}, "freq": 1,
   "signals": [
-    {"id": "FIESTA_EVAP_V", "path": "Engine", "fmt": { "len": 16, "max": 5, "mul": 195597, "div": 978941, "unit": "volts" }, "name": "Evaporative pressure sensor voltage"}
+    {"id": "FIESTA_EVAP_RAW", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Evaporative pressure sensor, raw count"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "038F"}, "freq": 5,
   "signals": [
@@ -300,7 +300,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "03DC"}, "freq": 1,
   "signals": [
-    {"id": "FIESTA_HPFP_DES", "path": "Engine", "fmt": { "len": 16, "max": 3500, "mul": 1.4503773969, "unit": "psi" }, "name": "Fuel pressure, high desired"}
+    {"id": "FIESTA_HPFP_DES", "path": "Engine", "fmt": { "len": 16, "max": 655350, "mul": 10, "unit": "kilopascal" }, "name": "Fuel rail pressure, desired"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "03E8"}, "freq": 5,
   "signals": [
