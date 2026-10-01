@@ -65,8 +65,8 @@ supported_commands_by_ecu:
   - 7E0.0151:FUEL_TYP
 unsupported_commands_by_ecu:
   "720":
-  - 720.728.226180
-  - 720.728.226185
+  - 720.728.226180:FIESTA_ODO_720
+  - 720.728.226185:FIESTA_FLI
   "726":
   - 726.72E.222813
   - 726.72E.222814
