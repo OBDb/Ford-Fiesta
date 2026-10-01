@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220393
+test_cases:
+- expected_values:
+    FIESTA_AC_P: 165.63311
+  response: 7E805620393023B
+- expected_values:
+    FIESTA_AC_P: 222.19783
+  response: 7E80562039302FE
+- expected_values:
+    FIESTA_AC_P: 223.64821
+  response: '7E8056203930303'

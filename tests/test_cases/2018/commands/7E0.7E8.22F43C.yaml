@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F43C
+test_cases:
+- expected_values:
+    FIESTA_CAT_TEMP: 207.8
+  response: 7E80562F43C09AE
+- expected_values:
+    FIESTA_CAT_TEMP: 548.2
+  response: 7E80562F43C16FA
+- expected_values:
+    FIESTA_CAT_TEMP: 550.6
+  response: 7E80562F43C1712
+- expected_values:
+    FIESTA_CAT_TEMP: 613.5
+  response: 7E80562F43C1987
