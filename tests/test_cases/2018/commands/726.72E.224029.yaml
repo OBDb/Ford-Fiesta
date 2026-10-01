@@ -1,0 +1,8 @@
+command_id: 726.72E.224029
+test_cases:
+- expected_values:
+    FIESTA_12V_T: 35
+  response: 72E046240294B
+- expected_values:
+    FIESTA_12V_T: 36
+  response: 72E046240294C

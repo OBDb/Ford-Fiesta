@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2205FC
+test_cases:
+- expected_values:
+    FIESTA_PCM_CYL_HEAD_T_SENS_2_RAW: 63.39062
+  response: 7E8056205FC0FD9
+- expected_values:
+    FIESTA_PCM_CYL_HEAD_T_SENS_2_RAW: 100.0625
+  response: 7E8056205FC1904
+- expected_values:
+    FIESTA_PCM_CYL_HEAD_T_SENS_2_RAW: 103.89062
+  response: 7E8056205FC19F9
