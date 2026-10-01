@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22F434
+test_cases:
+- expected_values:
+    FIESTA_AIR_FUEL_RAT: 13.4331
+  response: 7E80762F43475727FA1
+- expected_values:
+    FIESTA_AIR_FUEL_RAT: 14.53219
+  response: 7E80762F4347F0E7FEB
+- expected_values:
+    FIESTA_AIR_FUEL_RAT: 14.63764
+  response: 7E80762F4347FFA7FFF
+- expected_values:
+    FIESTA_AIR_FUEL_RAT: 14.70778
+  response: 7E80762F43480978000
+- expected_values:
+    FIESTA_AIR_FUEL_RAT: 29.2801
+  response: 7E80762F434FFFF81C9
+- expected_values:
+    FIESTA_AIR_FUEL_RAT: 29.2801
+  response: 7E80762F434FFFF8263

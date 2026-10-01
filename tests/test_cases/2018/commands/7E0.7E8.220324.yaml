@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220324
+test_cases:
+- expected_values:
+    FIESTA_HPFP_V: 1.07527
+  response: 7E80562032400DC
+- expected_values:
+    FIESTA_HPFP_V: 1.19257
+  response: 7E80562032400F4
+- expected_values:
+    FIESTA_HPFP_V: 1.27077
+  response: '7E8056203240104'
+- expected_values:
+    FIESTA_HPFP_V: 2.89834
+  response: '7E8056203240251'

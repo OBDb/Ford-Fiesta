@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22031A
+test_cases:
+- expected_values:
+    FIESTA_VCT_INT_ERR: 0
+  response: 7E80562031A0000
+- expected_values:
+    FIESTA_VCT_INT_ERR: -14.0625
+  response: 7E80562031AFF1F
+- expected_values:
+    FIESTA_VCT_INT_ERR: -0.0625
+  response: 7E80562031AFFFF
