@@ -7,8 +7,5 @@ test_cases:
     FIESTA_HPFP_V: 1.24633
   response: 7E80562032400FF
 - expected_values:
-    FIESTA_HPFP_V: 1.27077
-  response: '7E8056203240104'
-- expected_values:
-    FIESTA_HPFP_V: 2.52688
-  response: '7E8056203240205'
+    FIESTA_HPFP_V: 2.50244
+  response: '7E8056203240200'

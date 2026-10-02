@@ -1,26 +1,8 @@
 command_id: 7E0.7E8.221126
 test_cases:
 - expected_values:
-    FIESTA_ERT: 67
-  response: '7E80462112643'
-- expected_values:
-    FIESTA_ERT: 88
-  response: '7E80462112658'
-- expected_values:
-    FIESTA_ERT: 117
-  response: '7E80462112675'
-- expected_values:
-    FIESTA_ERT: 147
-  response: '7E80462112693'
-- expected_values:
-    FIESTA_ERT: 177
-  response: 7E804621126B1
-- expected_values:
-    FIESTA_ERT: 210
-  response: 7E804621126D2
-- expected_values:
-    FIESTA_ERT: 240
-  response: 7E804621126F0
+    FIESTA_ERT: 0
+  response: '7E80462112600'
 - expected_values:
     FIESTA_ERT: 255
   response: 7E804621126FF

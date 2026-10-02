@@ -7,5 +7,5 @@ test_cases:
     FIESTA_CL_LC: -0.02905
   response: 7E8056203BDFF12
 - expected_values:
-    FIESTA_CL_LC: -0.00732
-  response: 7E8056203BDFFC4
+    FIESTA_CL_LC: -0.00208
+  response: 7E8056203BDFFEF

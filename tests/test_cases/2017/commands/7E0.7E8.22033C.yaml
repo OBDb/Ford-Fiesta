@@ -4,8 +4,8 @@ test_cases:
     FIESTA_TIP_V: 1.62109
   response: 7E80562033C014C
 - expected_values:
-    FIESTA_TIP_V: 2.46582
-  response: 7E80562033C01F9
+    FIESTA_TIP_V: 2.49512
+  response: 7E80562033C01FF
 - expected_values:
-    FIESTA_TIP_V: 2.70508
-  response: 7E80562033C022A
+    FIESTA_TIP_V: 2.62207
+  response: 7E80562033C0219
