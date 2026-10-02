@@ -1,0 +1,11 @@
+command_id: 726.72E.224021
+test_cases:
+- expected_values:
+    FIESTA_NORM_CUM_DCHG_BAT_ON: 53.4
+  response: '72E056240210216'
+- expected_values:
+    FIESTA_NORM_CUM_DCHG_BAT_ON: 53.5
+  response: '72E056240210217'
+- expected_values:
+    FIESTA_NORM_CUM_DCHG_BAT_ON: 53.6
+  response: '72E056240210218'
