@@ -4,5 +4,5 @@ test_cases:
     FIESTA_MCT: 56
   response: 7E8046203CA38
 - expected_values:
-    FIESTA_MCT: 84
-  response: 7E8046203CA54
+    FIESTA_MCT: 88
+  response: 7E8046203CA58

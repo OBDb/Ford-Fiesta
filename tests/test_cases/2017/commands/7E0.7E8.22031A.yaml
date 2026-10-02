@@ -4,8 +4,8 @@ test_cases:
     FIESTA_VCT_INT_ERR: 0
   response: 7E80562031A0000
 - expected_values:
-    FIESTA_VCT_INT_ERR: -11.75
-  response: 7E80562031AFF44
+    FIESTA_VCT_INT_ERR: -12.625
+  response: 7E80562031AFF36
 - expected_values:
     FIESTA_VCT_INT_ERR: -0.0625
   response: 7E80562031AFFFF

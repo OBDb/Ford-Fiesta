@@ -4,11 +4,11 @@ test_cases:
     FIESTA_ETC_ANG_ACT: 0.29688
   response: 7E80562093C0098
 - expected_values:
-    FIESTA_ETC_ANG_ACT: 9.49805
-  response: 7E80562093C12FF
+    FIESTA_ETC_ANG_ACT: 4.99805
+  response: 7E80562093C09FF
 - expected_values:
-    FIESTA_ETC_ANG_ACT: 15
-  response: 7E80562093C1E00
+    FIESTA_ETC_ANG_ACT: 12
+  response: 7E80562093C1800
 - expected_values:
-    FIESTA_ETC_ANG_ACT: 60.50195
-  response: 7E80562093C7901
+    FIESTA_ETC_ANG_ACT: 68.97656
+  response: 7E80562093C89F4

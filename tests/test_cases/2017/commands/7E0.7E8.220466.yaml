@@ -4,11 +4,11 @@ test_cases:
     FIESTA_TIP_DES_ABS: 14.13791
   response: 7E80562046631EA
 - expected_values:
-    FIESTA_TIP_DES_ABS: 14.44329
-  response: 7E80562046632FE
+    FIESTA_TIP_DES_ABS: 14.44439
+  response: 7E80562046632FF
 - expected_values:
-    FIESTA_TIP_DES_ABS: 15.01199
-  response: '7E8056204663500'
+    FIESTA_TIP_DES_ABS: 14.4455
+  response: '7E8056204663300'
 - expected_values:
     FIESTA_TIP_DES_ABS: 30.27625
   response: 7E8056204666AE4

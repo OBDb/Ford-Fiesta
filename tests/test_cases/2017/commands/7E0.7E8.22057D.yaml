@@ -4,14 +4,5 @@ test_cases:
     FIESTA_AAT_ALT: 15
   response: 7E80462057D6E
 - expected_values:
-    FIESTA_AAT_ALT: 16
-  response: 7E80462057D70
-- expected_values:
-    FIESTA_AAT_ALT: 17
-  response: 7E80462057D72
-- expected_values:
-    FIESTA_AAT_ALT: 18
-  response: 7E80462057D74
-- expected_values:
-    FIESTA_AAT_ALT: 19
-  response: 7E80462057D76
+    FIESTA_AAT_ALT: 29
+  response: 7E80462057D8A

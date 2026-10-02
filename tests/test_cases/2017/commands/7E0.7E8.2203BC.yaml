@@ -4,8 +4,8 @@ test_cases:
     FIESTA_VCT_INT_DES: 0
   response: 7E8056203BC0000
 - expected_values:
-    FIESTA_VCT_INT_DES: -14
-  response: 7E8056203BCFF20
+    FIESTA_VCT_INT_DES: -14.6875
+  response: 7E8056203BCFF15
 - expected_values:
     FIESTA_VCT_INT_DES: -0.0625
   response: 7E8056203BCFFFF
