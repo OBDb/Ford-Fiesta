@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221166
+test_cases:
+- expected_values:
+    FIESTA_EVAP_PURGE_CMD: 0
+  response: '7E8056211660000'
+- expected_values:
+    FIESTA_EVAP_PURGE_CMD: 11.7157
+  response: 7E8056211660EFF
+- expected_values:
+    FIESTA_EVAP_PURGE_CMD: 100
+  response: '7E8056211668000'

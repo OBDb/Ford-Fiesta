@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22093C
+test_cases:
+- expected_values:
+    FIESTA_ETC_ANG_ACT: 0.29688
+  response: 7E80562093C0098
+- expected_values:
+    FIESTA_ETC_ANG_ACT: 9.49805
+  response: 7E80562093C12FF
+- expected_values:
+    FIESTA_ETC_ANG_ACT: 15
+  response: 7E80562093C1E00
+- expected_values:
+    FIESTA_ETC_ANG_ACT: 60.50195
+  response: 7E80562093C7901

@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.220338
+test_cases:
+- expected_values:
+    FIESTA_ETC_TRIM_LRN: -1
+  response: 7E805620338FE00
+- expected_values:
+    FIESTA_ETC_TRIM_LRN: -0.79688
+  response: 7E805620338FE68
+- expected_values:
+    FIESTA_ETC_TRIM_LRN: -0.52344
+  response: 7E805620338FEF4
+- expected_values:
+    FIESTA_ETC_TRIM_LRN: -0.49414
+  response: 7E805620338FF03
+- expected_values:
+    FIESTA_ETC_TRIM_LRN: -0.49023
+  response: 7E805620338FF05
+- expected_values:
+    FIESTA_ETC_TRIM_LRN: -0.26172
+  response: 7E805620338FF7A
+- expected_values:
+    FIESTA_ETC_TRIM_LRN: -0.21875
+  response: 7E805620338FF90

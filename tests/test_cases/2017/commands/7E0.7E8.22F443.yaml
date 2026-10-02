@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F443
+test_cases:
+- expected_values:
+    FIESTA_ENG_LOAD_ACT: 11.76471
+  response: 7E80562F443001E
+- expected_values:
+    FIESTA_ENG_LOAD_ACT: 99.21569
+  response: 7E80562F44300FD
+- expected_values:
+    FIESTA_ENG_LOAD_ACT: 102.35294
+  response: 7E80562F4430105
