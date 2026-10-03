@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.220353
 test_cases:
 - expected_values:
+    FIESTA_BARO: 14.86471
+  response: 7E805620353019A
+- expected_values:
     FIESTA_BARO: 14.90096
   response: 7E805620353019B
 - expected_values:

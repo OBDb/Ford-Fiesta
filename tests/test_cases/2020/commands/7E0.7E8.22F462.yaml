@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F462
 test_cases:
 - expected_values:
-    FIESTA_PCM_ACT_ENG_PCT_TRQ: 3
-  response: 7E80462F46280
+    FIESTA_PCM_ACT_ENG_PCT_TRQ: 0
+  response: 7E80462F4627D
 - expected_values:
-    FIESTA_PCM_ACT_ENG_PCT_TRQ: 50
-  response: 7E80462F462AF
+    FIESTA_PCM_ACT_ENG_PCT_TRQ: 64
+  response: 7E80462F462BD

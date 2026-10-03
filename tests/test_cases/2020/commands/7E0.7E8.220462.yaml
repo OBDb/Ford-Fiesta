@@ -4,11 +4,11 @@ test_cases:
     FIESTA_WGDC: 14.99939
   response: '7E8056204621333'
 - expected_values:
-    FIESTA_WGDC: 15.7135
-  response: 7E805620462141D
-- expected_values:
     FIESTA_WGDC: 24.99695
   response: 7E8056204621FFF
 - expected_values:
-    FIESTA_WGDC: 64.50195
-  response: '7E8056204625290'
+    FIESTA_WGDC: 61.73401
+  response: 7E8056204624F05
+- expected_values:
+    FIESTA_WGDC: 65.29541
+  response: '7E8056204625394'

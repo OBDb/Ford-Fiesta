@@ -4,8 +4,8 @@ test_cases:
     FIESTA_IGN_TIM_CYL1: 0
   response: 7E80562116B0000
 - expected_values:
-    FIESTA_IGN_TIM_CYL1: -17.75
-  response: 7E80562116BFFB9
+    FIESTA_IGN_TIM_CYL1: -28
+  response: 7E80562116BFF90
 - expected_values:
     FIESTA_IGN_TIM_CYL1: -0.25
   response: 7E80562116BFFFF

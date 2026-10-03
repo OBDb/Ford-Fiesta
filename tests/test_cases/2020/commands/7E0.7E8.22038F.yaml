@@ -7,8 +7,8 @@ test_cases:
     FIESTA_ECT: 39.98438
   response: 7E80562038F09FF
 - expected_values:
-    FIESTA_ECT: 56.32812
-  response: 7E80562038F0E15
+    FIESTA_ECT: 84.20312
+  response: 7E80562038F150D
 - expected_values:
-    FIESTA_ECT: 80.4375
-  response: 7E80562038F141C
+    FIESTA_ECT: 89.73438
+  response: 7E80562038F166F
