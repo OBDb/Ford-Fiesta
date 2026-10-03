@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22033E
+test_cases:
+- expected_values:
+    FIESTA_TIP_ABS: 14.8582
+  response: 7E80562033E3475
+- expected_values:
+    FIESTA_TIP_ABS: 14.88143
+  response: 7E80562033E348A
+- expected_values:
+    FIESTA_TIP_ABS: 14.8925
+  response: 7E80562033E3494
+- expected_values:
+    FIESTA_TIP_ABS: 14.90356
+  response: 7E80562033E349E
+- expected_values:
+    FIESTA_TIP_ABS: 14.91573
+  response: 7E80562033E34A9
+- expected_values:
+    FIESTA_TIP_ABS: 14.9268
+  response: 7E80562033E34B3
+- expected_values:
+    FIESTA_TIP_ABS: 14.93897
+  response: 7E80562033E34BE
+- expected_values:
+    FIESTA_TIP_ABS: 14.97327
+  response: 7E80562033E34DD

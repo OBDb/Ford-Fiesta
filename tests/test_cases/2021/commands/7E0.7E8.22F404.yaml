@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22F404
+test_cases:
+- expected_values:
+    FIESTA_ENG_LOAD_PCT: 0
+  response: 7E80462F40400
+- expected_values:
+    FIESTA_ENG_LOAD_PCT: 7.45098
+  response: 7E80462F40413
+- expected_values:
+    FIESTA_ENG_LOAD_PCT: 8.62745
+  response: 7E80462F40416
+- expected_values:
+    FIESTA_ENG_LOAD_PCT: 9.41176
+  response: 7E80462F40418
+- expected_values:
+    FIESTA_ENG_LOAD_PCT: 13.72549
+  response: 7E80462F40423
+- expected_values:
+    FIESTA_ENG_LOAD_PCT: 19.60784
+  response: 7E80462F40432
+- expected_values:
+    FIESTA_ENG_LOAD_PCT: 46.27451
+  response: 7E80462F40476

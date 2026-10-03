@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22F40D
+test_cases:
+- expected_values:
+    FIESTA_VSS: 0
+  response: 7E80462F40D00
+- expected_values:
+    FIESTA_VSS: 1
+  response: 7E80462F40D01
+- expected_values:
+    FIESTA_VSS: 4
+  response: 7E80462F40D04
+- expected_values:
+    FIESTA_VSS: 6
+  response: 7E80462F40D06
+- expected_values:
+    FIESTA_VSS: 8
+  response: 7E80462F40D08
+- expected_values:
+    FIESTA_VSS: 16
+  response: 7E80462F40D10
+- expected_values:
+    FIESTA_VSS: 21
+  response: 7E80462F40D15
+- expected_values:
+    FIESTA_VSS: 30
+  response: 7E80462F40D1E

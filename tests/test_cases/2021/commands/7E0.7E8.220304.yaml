@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220304
+test_cases:
+- expected_values:
+    FIESTA_CMD_GEN_V: 15.1607
+  response: 7E805620304795B
+- expected_values:
+    FIESTA_CMD_GEN_V: 15.22023
+  response: 7E80562030479D5
