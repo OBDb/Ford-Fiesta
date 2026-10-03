@@ -4,8 +4,8 @@ test_cases:
     FIESTA_MAP_HIRES: 21.75
   response: '7E8056203700057'
 - expected_values:
-    FIESTA_MAP_HIRES: 60.25
-  response: 7E80562037000F1
+    FIESTA_MAP_HIRES: 61
+  response: 7E80562037000F4
 - expected_values:
     FIESTA_MAP_HIRES: 130.5
   response: 7E805620370020A

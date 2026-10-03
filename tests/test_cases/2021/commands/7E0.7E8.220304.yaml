@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.220304
 test_cases:
 - expected_values:
-    FIESTA_CMD_GEN_V: 14.9777
-  response: 7E80562030477E4
+    FIESTA_CMD_GEN_V: 13.29214
+  response: 7E8056203046A66
+- expected_values:
+    FIESTA_CMD_GEN_V: 14.74394
+  response: '7E8056203047605'
 - expected_values:
     FIESTA_CMD_GEN_V: 14.98941
   response: 7E80562030477FC

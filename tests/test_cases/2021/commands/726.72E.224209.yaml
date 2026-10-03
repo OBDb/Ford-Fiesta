@@ -7,5 +7,5 @@ test_cases:
     FIESTA_BAT_CURRENT: 8.75
   response: '72E0762420900002300'
 - expected_values:
-    FIESTA_BAT_CURRENT: 29.75
-  response: '72E0762420900007760'
+    FIESTA_BAT_CURRENT: 36
+  response: '72E0762420900009000'

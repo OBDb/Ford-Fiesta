@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F40B
 test_cases:
 - expected_values:
-    FIESTA_MAP: 3.19086
-  response: 7E80462F40B16
+    FIESTA_MAP: 2.90078
+  response: 7E80462F40B14
 - expected_values:
     FIESTA_MAP: 27.84748
   response: 7E80462F40BC0
