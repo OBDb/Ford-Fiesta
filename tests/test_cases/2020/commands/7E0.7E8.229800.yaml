@@ -7,8 +7,8 @@ test_cases:
     FIESTA_AC_P_SENS_V: 1.25
   response: '7E8056298000500'
 - expected_values:
-    FIESTA_AC_P_SENS_V: 1.49414
-  response: 7E80562980005FA
+    FIESTA_AC_P_SENS_V: 1.49902
+  response: 7E80562980005FF
 - expected_values:
     FIESTA_AC_P_SENS_V: 2.01172
   response: 7E805629800080C

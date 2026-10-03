@@ -4,23 +4,5 @@ test_cases:
     FIESTA_LTFT: 4.6875
   response: 7E80462F40786
 - expected_values:
-    FIESTA_LTFT: 5.46875
-  response: 7E80462F40787
-- expected_values:
-    FIESTA_LTFT: 6.25
-  response: 7E80462F40788
-- expected_values:
-    FIESTA_LTFT: 7.03125
-  response: 7E80462F40789
-- expected_values:
-    FIESTA_LTFT: 8.59375
-  response: 7E80462F4078B
-- expected_values:
-    FIESTA_LTFT: 10.15625
-  response: 7E80462F4078D
-- expected_values:
-    FIESTA_LTFT: 10.9375
-  response: 7E80462F4078E
-- expected_values:
-    FIESTA_LTFT: 12.5
-  response: 7E80462F40790
+    FIESTA_LTFT: 13.28125
+  response: 7E80462F40791

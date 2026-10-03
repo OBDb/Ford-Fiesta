@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.2203DC
 test_cases:
 - expected_values:
-    FIESTA_HPFP_DES: 3790
-  response: 7E8056203DC017B
+    FIESTA_HPFP_DES: 60
+  response: 7E8056203DC0006
 - expected_values:
     FIESTA_HPFP_DES: 20450
   response: 7E8056203DC07FD
-- expected_values:
-    FIESTA_HPFP_DES: 20570
-  response: 7E8056203DC0809
 - expected_values:
     FIESTA_HPFP_DES: 23470
   response: 7E8056203DC092B

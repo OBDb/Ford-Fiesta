@@ -4,11 +4,11 @@ test_cases:
     FIESTA_BAT_CURRENT: 2.5
   response: 72E0762420900000A80
 - expected_values:
-    FIESTA_BAT_CURRENT: 13.75
-  response: '72E0762420900003700'
+    FIESTA_BAT_CURRENT: 5.75
+  response: '72E0762420900001700'
 - expected_values:
-    FIESTA_BAT_CURRENT: 14
-  response: 72E07624209000038E0
+    FIESTA_BAT_CURRENT: 13.75
+  response: 72E07624209000037E0
 - expected_values:
     FIESTA_BAT_CURRENT: 30
   response: '72E0762420900007880'

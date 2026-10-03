@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.220580
 test_cases:
 - expected_values:
+    FIESTA_GRILL_SHUTTER_POS: 93.33333
+  response: 7E804620580EE
+- expected_values:
     FIESTA_GRILL_SHUTTER_POS: 100
   response: 7E804620580FF

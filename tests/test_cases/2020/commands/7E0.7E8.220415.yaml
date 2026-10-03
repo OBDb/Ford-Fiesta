@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220415
 test_cases:
 - expected_values:
-    FIESTA_PCM_ENG_EOP_RAW: 149
-  response: '7E8056204150095'
+    FIESTA_PCM_ENG_EOP_RAW: 0
+  response: '7E8056204150000'
 - expected_values:
-    FIESTA_PCM_ENG_EOP_RAW: 198
-  response: 7E80562041500C6
+    FIESTA_PCM_ENG_EOP_RAW: 217
+  response: 7E80562041500D9
 - expected_values:
-    FIESTA_PCM_ENG_EOP_RAW: 376
-  response: '7E8056204150178'
+    FIESTA_PCM_ENG_EOP_RAW: 348
+  response: 7E805620415015C
