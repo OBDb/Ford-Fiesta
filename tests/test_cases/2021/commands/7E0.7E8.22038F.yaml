@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22038F
+test_cases:
+- expected_values:
+    FIESTA_ECT: 47.57812
+  response: 7E80562038F0BE5
+- expected_values:
+    FIESTA_ECT: 52.10938
+  response: 7E80562038F0D07
+- expected_values:
+    FIESTA_ECT: 60.53125
+  response: 7E80562038F0F22

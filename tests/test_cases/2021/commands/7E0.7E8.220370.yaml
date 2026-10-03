@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.220370
+test_cases:
+- expected_values:
+    FIESTA_MAP_HIRES: 23.25
+  response: 7E805620370005D
+- expected_values:
+    FIESTA_MAP_HIRES: 24.75
+  response: '7E8056203700063'
+- expected_values:
+    FIESTA_MAP_HIRES: 46.25
+  response: 7E80562037000B9
+- expected_values:
+    FIESTA_MAP_HIRES: 101.25
+  response: '7E8056203700195'
+- expected_values:
+    FIESTA_MAP_HIRES: 102.5
+  response: 7E805620370019A
+- expected_values:
+    FIESTA_MAP_HIRES: 102.75
+  response: 7E805620370019B

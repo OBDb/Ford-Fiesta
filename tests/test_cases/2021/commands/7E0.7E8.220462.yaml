@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220462
+test_cases:
+- expected_values:
+    FIESTA_WGDC: 14.99939
+  response: '7E8056204621333'
+- expected_values:
+    FIESTA_WGDC: 60.14709
+  response: 7E8056204624CFD

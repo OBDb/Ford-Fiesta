@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220707
+test_cases:
+- expected_values:
+    FIESTA_GRILL_SHUT_DC: 88.23529
+  response: 7E804620707E1
+- expected_values:
+    FIESTA_GRILL_SHUT_DC: 93.33333
+  response: 7E804620707EE
+- expected_values:
+    FIESTA_GRILL_SHUT_DC: 94.5098
+  response: 7E804620707F1
+- expected_values:
+    FIESTA_GRILL_SHUT_DC: 100
+  response: 7E804620707FF
