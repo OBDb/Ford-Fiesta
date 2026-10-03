@@ -4,17 +4,8 @@ test_cases:
     FIESTA_ENG_FUEL_RATE: 0
   response: 7E80562F45E0000
 - expected_values:
-    FIESTA_ENG_FUEL_RATE: 0.05
-  response: 7E80562F45E0001
+    FIESTA_ENG_FUEL_RATE: 11.55
+  response: 7E80562F45E00E7
 - expected_values:
-    FIESTA_ENG_FUEL_RATE: 0.65
-  response: 7E80562F45E000D
-- expected_values:
-    FIESTA_ENG_FUEL_RATE: 0.9
-  response: 7E80562F45E0012
-- expected_values:
-    FIESTA_ENG_FUEL_RATE: 1
-  response: 7E80562F45E0014
-- expected_values:
-    FIESTA_ENG_FUEL_RATE: 1.1
-  response: 7E80562F45E0016
+    FIESTA_ENG_FUEL_RATE: 16.6
+  response: 7E80562F45E014C

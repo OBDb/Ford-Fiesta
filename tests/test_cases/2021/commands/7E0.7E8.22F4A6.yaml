@@ -4,23 +4,11 @@ test_cases:
     FIESTA_PCM_VEH_ODO: 91537.7
   response: 7E80762F4A6000DF7B1
 - expected_values:
-    FIESTA_PCM_VEH_ODO: 91538
-  response: 7E80762F4A6000DF7B4
+    FIESTA_PCM_VEH_ODO: 91545.8
+  response: 7E80762F4A6000DF802
 - expected_values:
-    FIESTA_PCM_VEH_ODO: 91538.1
-  response: 7E80762F4A6000DF7B5
+    FIESTA_PCM_VEH_ODO: 91571.1
+  response: 7E80762F4A6000DF8FF
 - expected_values:
-    FIESTA_PCM_VEH_ODO: 91538.3
-  response: 7E80762F4A6000DF7B7
-- expected_values:
-    FIESTA_PCM_VEH_ODO: 91538.4
-  response: 7E80762F4A6000DF7B8
-- expected_values:
-    FIESTA_PCM_VEH_ODO: 91538.5
-  response: 7E80762F4A6000DF7B9
-- expected_values:
-    FIESTA_PCM_VEH_ODO: 91538.6
-  response: 7E80762F4A6000DF7BA
-- expected_values:
-    FIESTA_PCM_VEH_ODO: 91538.7
-  response: 7E80762F4A6000DF7BB
+    FIESTA_PCM_VEH_ODO: 91571.9
+  response: 7E80762F4A6000DF907

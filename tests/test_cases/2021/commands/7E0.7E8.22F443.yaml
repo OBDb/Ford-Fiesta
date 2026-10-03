@@ -4,14 +4,8 @@ test_cases:
     FIESTA_ENG_LOAD_ACT: 0
   response: 7E80562F4430000
 - expected_values:
-    FIESTA_ENG_LOAD_ACT: 13.72549
-  response: 7E80562F4430023
+    FIESTA_ENG_LOAD_ACT: 100
+  response: 7E80562F44300FF
 - expected_values:
-    FIESTA_ENG_LOAD_ACT: 18.03922
-  response: 7E80562F443002E
-- expected_values:
-    FIESTA_ENG_LOAD_ACT: 22.35294
-  response: 7E80562F4430039
-- expected_values:
-    FIESTA_ENG_LOAD_ACT: 48.62745
-  response: 7E80562F443007C
+    FIESTA_ENG_LOAD_ACT: 104.70588
+  response: 7E80562F443010B

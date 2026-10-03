@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.22035F
 test_cases:
 - expected_values:
-    FIESTA_RO2_V: 0.13672
-  response: 7E80562035F008C
+    FIESTA_RO2_V: 0.11914
+  response: 7E80562035F007A
 - expected_values:
-    FIESTA_RO2_V: 0.27539
-  response: 7E80562035F011A
+    FIESTA_RO2_V: 0.74707
+  response: 7E80562035F02FD
 - expected_values:
-    FIESTA_RO2_V: 0.84277
-  response: 7E80562035F035F
-- expected_values:
-    FIESTA_RO2_V: 0.94531
-  response: 7E80562035F03C8
+    FIESTA_RO2_V: 0.75977
+  response: 7E80562035F030A

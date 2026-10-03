@@ -1,26 +1,8 @@
 command_id: 7E0.7E8.2203BA
 test_cases:
 - expected_values:
-    FIESTA_AAT_V: 3.13294
-  response: 7E8056203BA0281
+    FIESTA_AAT_V: 2.65396
+  response: 7E8056203BA021F
 - expected_values:
-    FIESTA_AAT_V: 3.16227
-  response: 7E8056203BA0287
-- expected_values:
-    FIESTA_AAT_V: 3.17204
-  response: 7E8056203BA0289
-- expected_values:
-    FIESTA_AAT_V: 3.17693
-  response: 7E8056203BA028A
-- expected_values:
-    FIESTA_AAT_V: 3.18182
-  response: 7E8056203BA028B
-- expected_values:
-    FIESTA_AAT_V: 3.19159
-  response: 7E8056203BA028D
-- expected_values:
-    FIESTA_AAT_V: 3.20137
-  response: 7E8056203BA028F
-- expected_values:
-    FIESTA_AAT_V: 3.21114
-  response: 7E8056203BA0291
+    FIESTA_AAT_V: 3.27468
+  response: 7E8056203BA029E

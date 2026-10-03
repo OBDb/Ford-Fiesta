@@ -4,26 +4,8 @@ test_cases:
     FIESTA_VSS_HD: 0
   response: '7E8056215050000'
 - expected_values:
-    FIESTA_VSS_HD: 0.99219
-  response: 7E805621505007F
+    FIESTA_VSS_HD: 99.96875
+  response: 7E80562150531FC
 - expected_values:
-    FIESTA_VSS_HD: 2.78906
-  response: '7E8056215050165'
-- expected_values:
-    FIESTA_VSS_HD: 6.80469
-  response: '7E8056215050367'
-- expected_values:
-    FIESTA_VSS_HD: 11.53906
-  response: 7E80562150505C5
-- expected_values:
-    FIESTA_VSS_HD: 12.65625
-  response: '7E8056215050654'
-- expected_values:
-    FIESTA_VSS_HD: 17.6875
-  response: 7E80562150508D8
-- expected_values:
-    FIESTA_VSS_HD: 18.61719
-  response: 7E805621505094F
-- expected_values:
-    FIESTA_VSS_HD: 30.09375
-  response: 7E8056215050F0C
+    FIESTA_VSS_HD: 106.19531
+  response: '7E8056215053519'

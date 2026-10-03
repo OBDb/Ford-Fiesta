@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.22116B
 test_cases:
 - expected_values:
-    FIESTA_IGN_TIM_CYL1: 0.75
-  response: 7E80562116B0003
+    FIESTA_IGN_TIM_CYL1: 0.5
+  response: 7E80562116B0002
 - expected_values:
-    FIESTA_IGN_TIM_CYL1: 5
-  response: 7E80562116B0014
+    FIESTA_IGN_TIM_CYL1: -16.5
+  response: 7E80562116BFFBE
 - expected_values:
-    FIESTA_IGN_TIM_CYL1: 25
-  response: 7E80562116B0064
-- expected_values:
-    FIESTA_IGN_TIM_CYL1: -1.75
-  response: 7E80562116BFFF9
+    FIESTA_IGN_TIM_CYL1: -1.25
+  response: 7E80562116BFFFB

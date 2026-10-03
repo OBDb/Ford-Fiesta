@@ -4,26 +4,11 @@ test_cases:
     FIESTA_MAP_V: 0.33691
   response: '7E8056203010159'
 - expected_values:
-    FIESTA_MAP_V: 0.35156
-  response: '7E8056203010168'
-- expected_values:
-    FIESTA_MAP_V: 0.35254
-  response: '7E8056203010169'
-- expected_values:
     FIESTA_MAP_V: 0.74902
   response: 7E80562030102FF
 - expected_values:
-    FIESTA_MAP_V: 1.54785
-  response: '7E8056203010631'
+    FIESTA_MAP_V: 2.50195
+  response: 7E8056203010A02
 - expected_values:
-    FIESTA_MAP_V: 1.56836
-  response: '7E8056203010646'
-- expected_values:
-    FIESTA_MAP_V: 1.56934
-  response: '7E8056203010647'
-- expected_values:
-    FIESTA_MAP_V: 1.57031
-  response: '7E8056203010648'
-- expected_values:
-    FIESTA_MAP_V: 1.57227
-  response: 7E805620301064A
+    FIESTA_MAP_V: 2.80859
+  response: 7E8056203010B3C

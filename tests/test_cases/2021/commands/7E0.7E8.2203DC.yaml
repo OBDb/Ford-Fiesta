@@ -4,11 +4,8 @@ test_cases:
     FIESTA_HPFP_DES: 60
   response: 7E8056203DC0006
 - expected_values:
-    FIESTA_HPFP_DES: 3790
-  response: 7E8056203DC017B
+    FIESTA_HPFP_DES: 15300
+  response: 7E8056203DC05FA
 - expected_values:
-    FIESTA_HPFP_DES: 3810
-  response: 7E8056203DC017D
-- expected_values:
-    FIESTA_HPFP_DES: 4060
-  response: 7E8056203DC0196
+    FIESTA_HPFP_DES: 23060
+  response: 7E8056203DC0902

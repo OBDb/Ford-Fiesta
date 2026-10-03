@@ -1,6 +1,15 @@
 command_id: 726.72E.22402B
 test_cases:
 - expected_values:
+    FIESTA_VEH_BAT_CURRENT: -8
+  response: 72E0462402B77
+- expected_values:
+    FIESTA_VEH_BAT_CURRENT: -3
+  response: 72E0462402B7C
+- expected_values:
+    FIESTA_VEH_BAT_CURRENT: 1
+  response: 72E0462402B80
+- expected_values:
     FIESTA_VEH_BAT_CURRENT: 2
   response: 72E0462402B81
 - expected_values:
@@ -9,3 +18,6 @@ test_cases:
 - expected_values:
     FIESTA_VEH_BAT_CURRENT: 4
   response: 72E0462402B83
+- expected_values:
+    FIESTA_VEH_BAT_CURRENT: 6
+  response: 72E0462402B85

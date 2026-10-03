@@ -4,5 +4,8 @@ test_cases:
     FIESTA_DIST_DTC_CLR: 7139
   response: 7E80562F4311BE3
 - expected_values:
-    FIESTA_DIST_DTC_CLR: 7140
-  response: 7E80562F4311BE4
+    FIESTA_DIST_DTC_CLR: 7167
+  response: 7E80562F4311BFF
+- expected_values:
+    FIESTA_DIST_DTC_CLR: 7168
+  response: 7E80562F4311C00
