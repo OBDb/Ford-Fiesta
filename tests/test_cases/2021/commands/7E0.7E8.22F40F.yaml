@@ -4,8 +4,5 @@ test_cases:
     FIESTA_IAT_ALT2: 16
   response: 7E80462F40F38
 - expected_values:
-    FIESTA_IAT_ALT2: 17
-  response: 7E80462F40F39
-- expected_values:
-    FIESTA_IAT_ALT2: 18
-  response: 7E80462F40F3A
+    FIESTA_IAT_ALT2: 35
+  response: 7E80462F40F4B

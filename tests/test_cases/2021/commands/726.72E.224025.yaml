@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     FIESTA_BAT_QUIESCENT: 24
   response: '72E056240250800'
+- expected_values:
+    FIESTA_BAT_QUIESCENT: 26
+  response: '72E056240250804'

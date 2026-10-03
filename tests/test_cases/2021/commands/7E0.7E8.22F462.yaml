@@ -4,17 +4,5 @@ test_cases:
     FIESTA_PCM_ACT_ENG_PCT_TRQ: 0
   response: 7E80462F4627D
 - expected_values:
-    FIESTA_PCM_ACT_ENG_PCT_TRQ: 6
-  response: 7E80462F46283
-- expected_values:
-    FIESTA_PCM_ACT_ENG_PCT_TRQ: 8
-  response: 7E80462F46285
-- expected_values:
-    FIESTA_PCM_ACT_ENG_PCT_TRQ: 10
-  response: 7E80462F46287
-- expected_values:
-    FIESTA_PCM_ACT_ENG_PCT_TRQ: 16
-  response: 7E80462F4628D
-- expected_values:
-    FIESTA_PCM_ACT_ENG_PCT_TRQ: 42
-  response: 7E80462F462A7
+    FIESTA_PCM_ACT_ENG_PCT_TRQ: 95
+  response: 7E80462F462DC

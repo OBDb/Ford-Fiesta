@@ -1,32 +1,11 @@
 command_id: 7E0.7E8.221279
 test_cases:
 - expected_values:
-    FIESTA_IAT_SENS_V: 2.7566
-  response: '7E8056212790234'
+    FIESTA_IAT_SENS_V: 1.96481
+  response: '7E8056212790192'
 - expected_values:
-    FIESTA_IAT_SENS_V: 2.76149
-  response: '7E8056212790235'
+    FIESTA_IAT_SENS_V: 2.36559
+  response: 7E80562127901E4
 - expected_values:
-    FIESTA_IAT_SENS_V: 2.78104
-  response: '7E8056212790239'
-- expected_values:
-    FIESTA_IAT_SENS_V: 2.80059
-  response: 7E805621279023D
-- expected_values:
-    FIESTA_IAT_SENS_V: 2.80547
-  response: 7E805621279023E
-- expected_values:
-    FIESTA_IAT_SENS_V: 2.81036
-  response: 7E805621279023F
-- expected_values:
-    FIESTA_IAT_SENS_V: 2.82014
-  response: '7E8056212790241'
-- expected_values:
-    FIESTA_IAT_SENS_V: 2.82502
-  response: '7E8056212790242'
-- expected_values:
-    FIESTA_IAT_SENS_V: 2.82991
-  response: '7E8056212790243'
-- expected_values:
-    FIESTA_IAT_SENS_V: 2.8348
-  response: '7E8056212790244'
+    FIESTA_IAT_SENS_V: 2.75171
+  response: '7E8056212790233'

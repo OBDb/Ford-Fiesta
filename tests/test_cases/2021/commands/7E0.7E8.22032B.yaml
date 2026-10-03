@@ -4,5 +4,5 @@ test_cases:
     FIESTA_ACC_POS: 0
   response: 7E80462032B00
 - expected_values:
-    FIESTA_ACC_POS: 8
-  response: 7E80462032B10
+    FIESTA_ACC_POS: 99
+  response: 7E80462032BC6

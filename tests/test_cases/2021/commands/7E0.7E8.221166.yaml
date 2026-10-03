@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     FIESTA_EVAP_PURGE_CMD: 0
   response: '7E8056211660000'
+- expected_values:
+    FIESTA_EVAP_PURGE_CMD: 99.99695
+  response: 7E8056211667FFF
+- expected_values:
+    FIESTA_EVAP_PURGE_CMD: 100
+  response: '7E8056211668000'

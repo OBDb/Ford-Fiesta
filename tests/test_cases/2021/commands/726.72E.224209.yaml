@@ -1,32 +1,11 @@
 command_id: 726.72E.224209
 test_cases:
 - expected_values:
-    FIESTA_BAT_CURRENT: 10.75
-  response: 72E0762420900002BE0
+    FIESTA_BAT_CURRENT: 3
+  response: 72E0762420900000CE0
 - expected_values:
-    FIESTA_BAT_CURRENT: 13.25
-  response: '72E0762420900003540'
+    FIESTA_BAT_CURRENT: 8.75
+  response: '72E0762420900002300'
 - expected_values:
-    FIESTA_BAT_CURRENT: 13.25
-  response: '72E0762420900003560'
-- expected_values:
-    FIESTA_BAT_CURRENT: 15.75
-  response: 72E0762420900003F20
-- expected_values:
-    FIESTA_BAT_CURRENT: 21.25
-  response: '72E0762420900005500'
-- expected_values:
-    FIESTA_BAT_CURRENT: 22.5
-  response: 72E0762420900005A80
-- expected_values:
-    FIESTA_BAT_CURRENT: 24.25
-  response: '72E0762420900006100'
-- expected_values:
-    FIESTA_BAT_CURRENT: 25
-  response: '72E0762420900006480'
-- expected_values:
-    FIESTA_BAT_CURRENT: 25.25
-  response: '72E0762420900006540'
-- expected_values:
-    FIESTA_BAT_CURRENT: 25.25
-  response: 72E07624209000065C0
+    FIESTA_BAT_CURRENT: 29.75
+  response: '72E0762420900007760'

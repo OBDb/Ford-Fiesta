@@ -1,32 +1,11 @@
 command_id: 726.72E.22423C
 test_cases:
 - expected_values:
-    FIESTA_VEH_BAT_B_CURRENT: 2.09375
-  response: 72E0562423C0043
+    FIESTA_VEH_BAT_B_CURRENT: 1.1875
+  response: 72E0562423C0026
 - expected_values:
-    FIESTA_VEH_BAT_B_CURRENT: 2.1875
-  response: 72E0562423C0046
+    FIESTA_VEH_BAT_B_CURRENT: -8.0625
+  response: 72E0562423CFEFE
 - expected_values:
-    FIESTA_VEH_BAT_B_CURRENT: 2.25
-  response: 72E0562423C0048
-- expected_values:
-    FIESTA_VEH_BAT_B_CURRENT: 2.34375
-  response: 72E0562423C004B
-- expected_values:
-    FIESTA_VEH_BAT_B_CURRENT: 2.40625
-  response: 72E0562423C004D
-- expected_values:
-    FIESTA_VEH_BAT_B_CURRENT: 2.5625
-  response: 72E0562423C0052
-- expected_values:
-    FIESTA_VEH_BAT_B_CURRENT: 2.71875
-  response: 72E0562423C0057
-- expected_values:
-    FIESTA_VEH_BAT_B_CURRENT: 3
-  response: 72E0562423C0060
-- expected_values:
-    FIESTA_VEH_BAT_B_CURRENT: 3.65625
-  response: 72E0562423C0075
-- expected_values:
-    FIESTA_VEH_BAT_B_CURRENT: 4.46875
-  response: 72E0562423C008F
+    FIESTA_VEH_BAT_B_CURRENT: -3.21875
+  response: 72E0562423CFF99

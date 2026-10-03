@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     FIESTA_ETC_TRIM_LRN: -0.15039
   response: 7E805620338FFB3
+- expected_values:
+    FIESTA_ETC_TRIM_LRN: -0.11523
+  response: 7E805620338FFC5
+- expected_values:
+    FIESTA_ETC_TRIM_LRN: -0.05273
+  response: 7E805620338FFE5
+- expected_values:
+    FIESTA_ETC_TRIM_LRN: -0.05078
+  response: 7E805620338FFE6
