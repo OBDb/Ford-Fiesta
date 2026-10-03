@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2203BA
+test_cases:
+- expected_values:
+    FIESTA_AAT_V: 2.81525
+  response: 7E8056203BA0240
+- expected_values:
+    FIESTA_AAT_V: 3.12317
+  response: 7E8056203BA027F

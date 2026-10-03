@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F42F
+test_cases:
+- expected_values:
+    FIESTA_FLI_7E0: 34.11765
+  response: 7E80462F42F57
+- expected_values:
+    FIESTA_FLI_7E0: 54.11765
+  response: 7E80462F42F8A

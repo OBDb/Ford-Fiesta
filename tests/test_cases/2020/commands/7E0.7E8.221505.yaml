@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221505
+test_cases:
+- expected_values:
+    FIESTA_VSS_HD: 0
+  response: '7E8056215050000'
+- expected_values:
+    FIESTA_VSS_HD: 21.97656
+  response: 7E8056215050AFD
+- expected_values:
+    FIESTA_VSS_HD: 73.88281
+  response: 7E80562150524F1
