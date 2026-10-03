@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221279
+test_cases:
+- expected_values:
+    FIESTA_IAT_SENS_V: 2.08211
+  response: 7E80562127901AA
+- expected_values:
+    FIESTA_IAT_SENS_V: 2.46334
+  response: 7E80562127901F8
+- expected_values:
+    FIESTA_IAT_SENS_V: 2.51222
+  response: '7E8056212790202'

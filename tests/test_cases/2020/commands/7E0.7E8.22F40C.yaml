@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    FIESTA_RPM: 852.75
+  response: 7E80562F40C0D53
+- expected_values:
+    FIESTA_RPM: 1216
+  response: 7E80562F40C1300
+- expected_values:
+    FIESTA_RPM: 1919.75
+  response: 7E80562F40C1DFF
+- expected_values:
+    FIESTA_RPM: 2521.75
+  response: 7E80562F40C2767
