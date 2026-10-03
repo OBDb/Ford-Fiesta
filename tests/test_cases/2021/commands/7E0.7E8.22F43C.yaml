@@ -4,11 +4,11 @@ test_cases:
     FIESTA_CAT_TEMP: 419.3
   response: 7E80562F43C11F1
 - expected_values:
+    FIESTA_CAT_TEMP: 523.7
+  response: 7E80562F43C1605
+- expected_values:
     FIESTA_CAT_TEMP: 574.3
   response: 7E80562F43C17FF
-- expected_values:
-    FIESTA_CAT_TEMP: 600.8
-  response: 7E80562F43C1908
 - expected_values:
     FIESTA_CAT_TEMP: 762.1
   response: 7E80562F43C1F55

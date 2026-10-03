@@ -4,11 +4,11 @@ test_cases:
     FIESTA_AC_P_SENS_V: 1.01562
   response: '7E8056298000410'
 - expected_values:
-    FIESTA_AC_P_SENS_V: 1.24512
-  response: 7E80562980004FB
-- expected_values:
     FIESTA_AC_P_SENS_V: 1.25
   response: '7E8056298000500'
 - expected_values:
-    FIESTA_AC_P_SENS_V: 1.7627
-  response: 7E805629800070D
+    FIESTA_AC_P_SENS_V: 1.74805
+  response: 7E80562980006FE
+- expected_values:
+    FIESTA_AC_P_SENS_V: 2.02637
+  response: 7E805629800081B

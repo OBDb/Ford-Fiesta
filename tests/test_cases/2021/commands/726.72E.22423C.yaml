@@ -7,5 +7,5 @@ test_cases:
     FIESTA_VEH_BAT_B_CURRENT: -8.0625
   response: 72E0562423CFEFE
 - expected_values:
-    FIESTA_VEH_BAT_B_CURRENT: -3.21875
-  response: 72E0562423CFF99
+    FIESTA_VEH_BAT_B_CURRENT: -5.125
+  response: 72E0562423CFF5C

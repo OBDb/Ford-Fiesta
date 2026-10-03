@@ -7,5 +7,5 @@ test_cases:
     FIESTA_VCT_INT_DUTY: 32.8064
   response: 7E80562031629FE
 - expected_values:
-    FIESTA_VCT_INT_DUTY: 42.56287
-  response: 7E805620316367B
+    FIESTA_VCT_INT_DUTY: 43.75
+  response: '7E8056203163800'

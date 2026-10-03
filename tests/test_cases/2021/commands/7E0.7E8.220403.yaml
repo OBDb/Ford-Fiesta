@@ -4,5 +4,8 @@ test_cases:
     FIESTA_KS1_RAW: 5
   response: '7E8056204030005'
 - expected_values:
-    FIESTA_KS1_RAW: 40
-  response: '7E8056204030028'
+    FIESTA_KS1_RAW: 53
+  response: '7E8056204030035'
+- expected_values:
+    FIESTA_KS1_RAW: 261
+  response: '7E8056204030105'
