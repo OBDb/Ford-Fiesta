@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.22DD01
 test_cases:
 - expected_values:
+    FIESTA_ODO_7E0: 91783
+  response: 7E80662DD01016687
+- expected_values:
+    FIESTA_ODO_7E0: 91794
+  response: 7E80662DD01016692
+- expected_values:
     FIESTA_ODO_7E0: 67614
   response: |-
     7EC0662DD0101081E
