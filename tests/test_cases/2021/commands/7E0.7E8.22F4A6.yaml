@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     FIESTA_PCM_VEH_ODO: 91571.9
   response: 7E80762F4A6000DF907
+- expected_values:
+    FIESTA_PCM_VEH_ODO: 91783.8
+  response: 7E80762F4A6000E014E

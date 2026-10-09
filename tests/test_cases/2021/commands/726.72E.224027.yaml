@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     FIESTA_12V_AGE: 15600
   response: 72E05624027028A
+- expected_values:
+    FIESTA_12V_AGE: 15768
+  response: '72E056240270291'
