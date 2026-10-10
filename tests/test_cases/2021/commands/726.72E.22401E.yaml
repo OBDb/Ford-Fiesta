@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     FIESTA_NORM_CUM_CHG_IGN_ON: 59.4
   response: 72E0562401E0252
+- expected_values:
+    FIESTA_NORM_CUM_CHG_IGN_ON: 59.6
+  response: 72E0562401E0254
