@@ -4,11 +4,11 @@ test_cases:
     FIESTA_CMD_GEN_V: 13.29214
   response: 7E8056203046A66
 - expected_values:
+    FIESTA_CMD_GEN_V: 14.74053
+  response: 7E80562030475FE
+- expected_values:
     FIESTA_CMD_GEN_V: 14.74394
   response: '7E8056203047605'
-- expected_values:
-    FIESTA_CMD_GEN_V: 14.98941
-  response: 7E80562030477FC
 - expected_values:
     FIESTA_CMD_GEN_V: 15.12214
   response: 7E805620304790C
