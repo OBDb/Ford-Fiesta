@@ -4,11 +4,11 @@ test_cases:
     FIESTA_ODO_7E0: 91783
   response: 7E80662DD01016687
 - expected_values:
-    FIESTA_ODO_7E0: 91883
-  response: 7E80662DD010166EB
-- expected_values:
     FIESTA_ODO_7E0: 91960
   response: 7E80662DD01016738
+- expected_values:
+    FIESTA_ODO_7E0: 92150
+  response: 7E80662DD010167F6
 - expected_values:
     FIESTA_ODO_7E0: 67614
   response: |-
