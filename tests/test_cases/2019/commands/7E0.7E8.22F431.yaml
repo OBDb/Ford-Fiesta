@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    FIESTA_DIST_DTC_CLR: 5924
+  response: 7E80562F4311724
+- expected_values:
+    FIESTA_DIST_DTC_CLR: 6143
+  response: 7E80562F43117FF
+- expected_values:
+    FIESTA_DIST_DTC_CLR: 6144
+  response: 7E80562F4311800

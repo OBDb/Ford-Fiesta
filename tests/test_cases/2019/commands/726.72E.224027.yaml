@@ -1,0 +1,23 @@
+command_id: 726.72E.224027
+test_cases:
+- expected_values:
+    FIESTA_12V_AGE: 65376
+  response: 72E056240270AA4
+- expected_values:
+    FIESTA_12V_AGE: 65400
+  response: 72E056240270AA5
+- expected_values:
+    FIESTA_12V_AGE: 65424
+  response: 72E056240270AA6
+- expected_values:
+    FIESTA_12V_AGE: 65472
+  response: 72E056240270AA8
+- expected_values:
+    FIESTA_12V_AGE: 65496
+  response: 72E056240270AA9
+- expected_values:
+    FIESTA_12V_AGE: 65520
+  response: 72E056240270AAA
+- expected_values:
+    FIESTA_12V_AGE: 65544
+  response: 72E056240270AAB

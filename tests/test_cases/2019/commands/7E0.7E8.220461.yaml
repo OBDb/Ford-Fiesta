@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220461
+test_cases:
+- expected_values:
+    FIESTA_CAT: null
+  response: '7E8056204610000'

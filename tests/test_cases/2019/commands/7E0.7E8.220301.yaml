@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220301
+test_cases:
+- expected_values:
+    FIESTA_MAP_V: 0.4248
+  response: 7E80562030101B3
+- expected_values:
+    FIESTA_MAP_V: 1.00098
+  response: '7E8056203010401'
+- expected_values:
+    FIESTA_MAP_V: 1.49902
+  response: 7E80562030105FF
+- expected_values:
+    FIESTA_MAP_V: 3.06152
+  response: 7E8056203010C3F
