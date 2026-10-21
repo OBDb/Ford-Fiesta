@@ -4,5 +4,5 @@ test_cases:
     FIESTA_LTFT: -2.34375
   response: 7E80462F4077D
 - expected_values:
-    FIESTA_LTFT: 14.0625
-  response: 7E80462F40792
+    FIESTA_LTFT: 14.84375
+  response: 7E80462F40793
