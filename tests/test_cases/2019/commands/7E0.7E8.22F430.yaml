@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F430
+test_cases:
+- expected_values:
+    FIESTA_WARMUP_CLR: 161
+  response: 7E80462F430A1
+- expected_values:
+    FIESTA_WARMUP_CLR: 171
+  response: 7E80462F430AB

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22DD01
+test_cases:
+- expected_values:
+    FIESTA_ODO_7E0: 37856
+  response: 7E80662DD010093E0
+- expected_values:
+    FIESTA_ODO_7E0: 38143
+  response: 7E80662DD010094FF
+- expected_values:
+    FIESTA_ODO_7E0: 38144
+  response: 7E80662DD01009500

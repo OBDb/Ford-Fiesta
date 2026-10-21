@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22035A
+test_cases:
+- expected_values:
+    FIESTA_BARO_V: 3.95894
+  response: 7E80562035A032A
+- expected_values:
+    FIESTA_BARO_V: 4.06647
+  response: 7E80562035A0340
