@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22F4A6
+test_cases:
+- expected_values:
+    FIESTA_PCM_VEH_ODO: 96608.2
+  response: 7E80762F4A6000EBDC2
+- expected_values:
+    FIESTA_PCM_VEH_ODO: 96716.8
+  response: 7E80762F4A6000EC200
+- expected_values:
+    FIESTA_PCM_VEH_ODO: 96767.9
+  response: 7E80762F4A6000EC3FF
+- expected_values:
+    FIESTA_PCM_VEH_ODO: 98278.6
+  response: 7E80762F4A6000EFF02
+- expected_values:
+    FIESTA_PCM_VEH_ODO: 98304.2
+  response: 7E80762F4A6000F0002

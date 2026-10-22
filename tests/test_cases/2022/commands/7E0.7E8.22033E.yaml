@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22033E
+test_cases:
+- expected_values:
+    FIESTA_TIP_ABS: 13.40546
+  response: 7E80562033E2F54
+- expected_values:
+    FIESTA_TIP_ABS: 15.29634
+  response: 7E80562033E3601
+- expected_values:
+    FIESTA_TIP_ABS: 15.86062
+  response: 7E80562033E37FF
+- expected_values:
+    FIESTA_TIP_ABS: 40.41332
+  response: 7E80562033E8EAE

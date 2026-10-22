@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.224194
+test_cases:
+- expected_values:
+    FIESTA_DTE: 58.6
+  response: 7E805624194024A
+- expected_values:
+    FIESTA_DTE: 102.3
+  response: 7E80562419403FF
+- expected_values:
+    FIESTA_DTE: 153.6
+  response: '7E8056241940600'
+- expected_values:
+    FIESTA_DTE: 563.6
+  response: '7E8056241941604'
