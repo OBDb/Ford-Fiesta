@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220548
+test_cases:
+- expected_values:
+    FIESTA_LPFP_ACT: 47.57346
+  response: '7E8056205480290'
+- expected_values:
+    FIESTA_LPFP_ACT: 55.55072
+  response: 7E80562054802FE
+- expected_values:
+    FIESTA_LPFP_ACT: 55.69576
+  response: '7E8056205480300'
+- expected_values:
+    FIESTA_LPFP_ACT: 113.13202
+  response: '7E8056205480618'
