@@ -4,5 +4,5 @@ test_cases:
     FIESTA_12V_V: 11.8
   response: 72E0462402A74
 - expected_values:
-    FIESTA_12V_V: 15.2
-  response: 72E0462402AB8
+    FIESTA_12V_V: 15.3
+  response: 72E0462402ABA

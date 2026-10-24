@@ -7,5 +7,5 @@ test_cases:
     FIESTA_VSS_HD: 99.96875
   response: 7E80562150531FC
 - expected_values:
-    FIESTA_VSS_HD: 106.19531
-  response: '7E8056215053519'
+    FIESTA_VSS_HD: 108.03906
+  response: '7E8056215053605'

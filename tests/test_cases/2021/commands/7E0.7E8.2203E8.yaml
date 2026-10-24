@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     FIESTA_OAR: 0.00079
   response: 7E8056203E8000D
+- expected_values:
+    FIESTA_OAR: 0.08807
+  response: 7E8056203E805A3

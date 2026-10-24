@@ -4,14 +4,14 @@ test_cases:
     FIESTA_AIR_FUEL_RAT: 12.44972
   response: 7E80762F4346CD97F43
 - expected_values:
+    FIESTA_AIR_FUEL_RAT: 14.41111
+  response: 7E80762F4347DFF7FF2
+- expected_values:
     FIESTA_AIR_FUEL_RAT: 14.45177
   response: 7E80762F4347E5A7FFF
 - expected_values:
     FIESTA_AIR_FUEL_RAT: 14.58849
   response: 7E80762F4347F8C8000
-- expected_values:
-    FIESTA_AIR_FUEL_RAT: 14.7538
-  response: 7E80762F43480FE8006
 - expected_values:
     FIESTA_AIR_FUEL_RAT: 14.87309
   response: 7E80762F43482098009

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220604
 test_cases:
 - expected_values:
-    FIESTA_PCM_A_C_REFRIG_P: 528
-  response: '7E8056206040210'
+    FIESTA_PCM_A_C_REFRIG_P: 490
+  response: 7E80562060401EA
 - expected_values:
     FIESTA_PCM_A_C_REFRIG_P: 1276
   response: 7E80562060404FC
