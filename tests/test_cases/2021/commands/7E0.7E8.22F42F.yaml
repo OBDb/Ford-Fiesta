@@ -4,5 +4,5 @@ test_cases:
     FIESTA_FLI_7E0: 0
   response: 7E80462F42F00
 - expected_values:
-    FIESTA_FLI_7E0: 65.4902
-  response: 7E80462F42FA7
+    FIESTA_FLI_7E0: 68.62745
+  response: 7E80462F42FAF
