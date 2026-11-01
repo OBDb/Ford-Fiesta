@@ -26,6 +26,7 @@ supported_commands_by_ecu:
   - 726.72E.22423C:FIESTA_VEH_BAT_B_CURRENT
   "7DF":
   - 7DF.0105
+  - 7DF.0106
   - 7DF.010D
   - 7DF.012F
   - 7DF.0131
