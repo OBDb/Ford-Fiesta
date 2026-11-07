@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22057D
 test_cases:
 - expected_values:
-    FIESTA_AAT_ALT: 11
-  response: 7E80462057D66
+    FIESTA_AAT_ALT: 8
+  response: 7E80462057D60
 - expected_values:
     FIESTA_AAT_ALT: 28
   response: 7E80462057D88
