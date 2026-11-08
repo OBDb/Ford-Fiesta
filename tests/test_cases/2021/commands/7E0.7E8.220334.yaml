@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220334
 test_cases:
 - expected_values:
-    FIESTA_PCM_CYL_HEAD_T_CORR: 47.26562
-  response: 7E8056203340BD1
+    FIESTA_PCM_CYL_HEAD_T_CORR: 44.60938
+  response: 7E8056203340B27
 - expected_values:
     FIESTA_PCM_CYL_HEAD_T_CORR: 80
   response: '7E8056203341400'
