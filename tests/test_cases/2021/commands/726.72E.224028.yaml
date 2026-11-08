@@ -15,3 +15,9 @@ test_cases:
 - expected_values:
     FIESTA_12V_SOC: 75
   response: 72E046240284B
+- expected_values:
+    FIESTA_12V_SOC: 80
+  response: '72E0462402850'
+- expected_values:
+    FIESTA_12V_SOC: 81
+  response: '72E0462402851'

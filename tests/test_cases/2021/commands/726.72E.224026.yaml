@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     FIESTA_NORM_CUM_DCHG_BAT_OFF: 26.9
   response: 72E05624026010D
+- expected_values:
+    FIESTA_NORM_CUM_DCHG_BAT_OFF: 27.3
+  response: '72E056240260111'
