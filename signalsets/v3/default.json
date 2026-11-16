@@ -220,7 +220,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0353"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2023 },
   "signals": [
-    {"id": "FIESTA_BARO", "path": "Engine", "fmt": { "len": 16, "max": 20, "min": 8, "mul": 615, "div": 16963, "unit": "psi" }, "name": "Barometric pressure"}
+    {"id": "FIESTA_BARO", "path": "Engine", "fmt": { "len": 16, "max": 20, "min": 8, "mul": 615, "div": 16963, "unit": "psi" }, "name": "Barometric pressure", "suggestedMetric": "barometricPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "035A"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2023 },
   "signals": [
@@ -488,7 +488,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "09DB"}, "freq": 1,
   "signals": [
-    {"id": "FIESTA_TURBO_BOOST", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "kilopascal" }, "name": "Turbo boost"}
+    {"id": "FIESTA_TURBO_BOOST", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "kilopascal" }, "name": "Turbo boost", "suggestedMetric": "absoluteBoostPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1126"}, "freq": 30, "dbgfilter": { "to": 2016, "from": 2023 },
   "signals": [
@@ -738,7 +738,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40B"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2023 },
   "signals": [
-    {"id": "FIESTA_MAP", "path": "Engine", "fmt": { "len": 8, "max": 36, "mul": 10000, "div": 68947, "unit": "psi" }, "name": "Manifold pressure"}
+    {"id": "FIESTA_MAP", "path": "Engine", "fmt": { "len": 8, "max": 36, "mul": 10000, "div": 68947, "unit": "psi" }, "name": "Manifold pressure", "suggestedMetric": "absoluteBoostPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40C"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2023 },
   "signals": [
