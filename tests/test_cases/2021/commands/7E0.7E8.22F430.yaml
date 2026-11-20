@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     FIESTA_WARMUP_CLR: 175
   response: 7E80462F430AF
+- expected_values:
+    FIESTA_WARMUP_CLR: 178
+  response: 7E80462F430B2
