@@ -7,6 +7,9 @@ test_cases:
     FIESTA_BARO: 14.42964
   response: 7E805620353018E
 - expected_values:
+    FIESTA_BARO: 14.64717
+  response: '7E8056203530194'
+- expected_values:
     FIESTA_BARO: 14.71968
   response: '7E8056203530196'
 - expected_values:
