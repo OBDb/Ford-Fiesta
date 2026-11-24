@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221E16
+test_cases:
+- expected_values:
+    FIESTA_AXLE_GEAR_RATIO_MEAS: 2.73364
+  response: 7E805621E162BBD
+- expected_values:
+    FIESTA_AXLE_GEAR_RATIO_MEAS: 3.37329
+  response: 7E805621E1635F9
+- expected_values:
+    FIESTA_AXLE_GEAR_RATIO_MEAS: 3.375
+  response: 7E805621E163600
+- expected_values:
+    FIESTA_AXLE_GEAR_RATIO_MEAS: 6.26465
+  response: 7E805621E16643C

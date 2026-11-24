@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22038E
+test_cases:
+- expected_values:
+    FIESTA_EVAP_RAW: 2016
+  response: 7E80562038E07E0
+- expected_values:
+    FIESTA_EVAP_RAW: 2052
+  response: 7E80562038E0804
+- expected_values:
+    FIESTA_EVAP_RAW: 2637
+  response: 7E80562038E0A4D
