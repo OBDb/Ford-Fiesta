@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2203BD
+test_cases:
+- expected_values:
+    FIESTA_CL_LC: 0
+  response: 7E8056203BD0000
+- expected_values:
+    FIESTA_CL_LC: 0.00867
+  response: 7E8056203BD0047
+- expected_values:
+    FIESTA_CL_LC: 0.01001
+  response: 7E8056203BD0052
+- expected_values:
+    FIESTA_CL_LC: -0.01575
+  response: 7E8056203BDFF7F
+- expected_values:
+    FIESTA_CL_LC: -0.01208
+  response: 7E8056203BDFF9D
+- expected_values:
+    FIESTA_CL_LC: -0.01135
+  response: 7E8056203BDFFA3
+- expected_values:
+    FIESTA_CL_LC: -0.00989
+  response: 7E8056203BDFFAF

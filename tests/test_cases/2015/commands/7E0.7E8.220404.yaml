@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.220404
+test_cases:
+- expected_values:
+    FIESTA_KS2_RAW: 78
+  response: 7E805620404004E
+- expected_values:
+    FIESTA_KS2_RAW: 85
+  response: '7E8056204040055'
+- expected_values:
+    FIESTA_KS2_RAW: 89
+  response: '7E8056204040059'
+- expected_values:
+    FIESTA_KS2_RAW: 91
+  response: 7E805620404005B
+- expected_values:
+    FIESTA_KS2_RAW: 93
+  response: 7E805620404005D
+- expected_values:
+    FIESTA_KS2_RAW: 101
+  response: '7E8056204040065'
+- expected_values:
+    FIESTA_KS2_RAW: 103
+  response: '7E8056204040067'

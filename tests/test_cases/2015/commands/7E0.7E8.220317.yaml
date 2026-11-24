@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220317
+test_cases:
+- expected_values:
+    FIESTA_VCT_EXH_DUTY: 0
+  response: '7E8056203170000'
+- expected_values:
+    FIESTA_VCT_EXH_DUTY: 39.04114
+  response: 7E80562031731F9
+- expected_values:
+    FIESTA_VCT_EXH_DUTY: 40.38696
+  response: 7E80562031733B2
